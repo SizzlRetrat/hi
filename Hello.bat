@@ -1,0 +1,2 @@
+@Echo off
+echo hello
