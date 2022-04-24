@@ -1,0 +1,3 @@
+file formats: .py = python; .js = Javascript; .elb = email 
+list builder; .exb = python app for exbos; .txt = text file
+and .c = c (it just makes sense)
