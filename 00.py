@@ -1,0 +1,1 @@
+print 'python wins!!! we are ahead! we have mastered python and we are better than html because we are the best and we can print stuffmon ur screen and if u want to print this send it to prn ok bye but were not done yet bye we like powerbanks'
